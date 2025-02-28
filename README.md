@@ -74,7 +74,6 @@ Start the frontend:
 
 npm run dev
 
-The app should be running at http://localhost:3000 🚀
 
 🔧 API Endpoints
 
