@@ -47,8 +47,8 @@ JSON Web Token (JWT) for authentication
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/google-sheets-clone.git
-cd google-sheets-clone
+git clone https://github.com/RagunathJeyakumar/Google_Sheet
+cd Google_sheet
 
 2️⃣ Backend Setup
 
