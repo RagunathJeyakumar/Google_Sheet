@@ -16,8 +16,6 @@ Save and load data from MongoDB
 
 🛠 Tech Stack
 
-![Image](https://github.com/user-attachments/assets/e5712a19-e19a-4829-840d-ab0ad1e08d13)
-
 ![Image](https://github.com/user-attachments/assets/496c22bd-bc55-45fa-a207-a412581dcef7)
 
 Frontend:
